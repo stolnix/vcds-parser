@@ -54,17 +54,3 @@ VCDS Parser does not retain user data on external servers.
 
 Any VCDS files opened by the user remain under the user’s control on their device or in the location from which the user selected the file.
 
-## 8. Children’s Privacy
-
-VCDS Parser does not knowingly collect personal information from children or from any other users.
-
-## 9. Changes to This Privacy Policy
-
-This Privacy Policy may be updated if the app’s functionality or data practices change. Any changes will be posted by updating this Privacy Policy.
-
-## 10. Contact
-
-For privacy-related questions, contact:
-
-**Email:** [your contact email here]
-
